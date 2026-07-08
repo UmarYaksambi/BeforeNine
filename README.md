@@ -4,14 +4,13 @@
 > BeforeNine is a Progressive Web App (PWA) designed to build better routines through individual streak tracking, real-time team accountability, and comprehensive habit analytics.[cite: 2]
 
 ---
-
 ## 📸 Screenshots
 
 <div align="center">
-  <img src="https://github.com/UmarYaksambi/Assets/BeforeNine/photo1.jpeg?raw=true" alt="BeforeNine Dashboard" width="45%" />
-  <img src="https://github.com/UmarYaksambi/Assets/BeforeNine/photo2.jpeg?raw=true" alt="Squad Sync Feature" width="45%" />
+  <img src="https://github.com/UmarYaksambi/Assets/blob/main/BeforeNine/photo1.jpeg?raw=true" alt="BeforeNine Dashboard" width="45%" />
+  <img src="https://github.com/UmarYaksambi/Assets/blob/main/BeforeNine/photo2.jpeg?raw=true" alt="Squad Sync Feature" width="45%" />
   <br>
-  <img src="https://github.com/UmarYaksambi/Assets/BeforeNine/photo3.jpeg?raw=true" alt="Mobile View" width="45%" />
+  <img src="https://github.com/UmarYaksambi/Assets/blob/main/BeforeNine/photo3.jpeg?raw=true" alt="Mobile View" width="45%" />
 </div>
 
 ---
