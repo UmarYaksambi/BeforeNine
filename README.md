@@ -6,12 +6,32 @@
 ---
 ## 📸 Screenshots
 
-<div align="center">
-  <img src="https://github.com/UmarYaksambi/Assets/blob/main/BeforeNine/photo1.jpeg?raw=true" alt="BeforeNine Dashboard" width="45%" />
-  <img src="https://github.com/UmarYaksambi/Assets/blob/main/BeforeNine/photo2.jpeg?raw=true" alt="Squad Sync Feature" width="45%" />
-  <br>
-  <img src="https://github.com/UmarYaksambi/Assets/blob/main/BeforeNine/photo3.jpeg?raw=true" alt="Mobile View" width="45%" />
-</div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github.com/UmarYaksambi/Assets/blob/main/BeforeNine/photo.png?raw=true"
+           alt="BeforeNine Dashboard"
+           width="100%">
+    </td>
+    <td align="center">
+      <img src="https://github.com/UmarYaksambi/Assets/blob/main/BeforeNine/photo1.jpeg?raw=true"
+           alt="Squad Sync Feature"
+           width="100%">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/UmarYaksambi/Assets/blob/main/BeforeNine/photo2.jpeg?raw=true"
+           alt="My Account"
+           width="100%">
+    </td>
+    <td align="center">
+      <img src="https://github.com/UmarYaksambi/Assets/blob/main/BeforeNine/photo3.jpeg?raw=true"
+           alt="Mobile View"
+           width="50%">
+    </td>
+  </tr>
+</table>
 
 ---
 
